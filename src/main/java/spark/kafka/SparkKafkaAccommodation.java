@@ -33,7 +33,7 @@ public class SparkKafkaAccommodation {
         SparkConf sparkConf = new SparkConf().setAppName("SparkKafkaAccommodation");
 
         // Connect to MongoDB using Mongoose
-        String connectionString = "mongodb+srv://salemhamdani:yTMKayeL6x3cJAxM@cluster0.zzyw6fa.mongodb.net/?retryWrites=true&w=majority";
+        String connectionString = "****";
 
 
         // Create le context of length de batch of 2 seconds
